@@ -34,9 +34,9 @@ CommandWidget_autogen/timestamp: \
   D:/CLion\ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-MSVC.cmake \
   D:/CLion\ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows.cmake \
   D:/CLion\ 2023.3.3/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake \
-  D:/Code/Project/CommandWidget/BACommandWidget.cpp \
-  D:/Code/Project/CommandWidget/BACommandWidget.h \
   D:/Code/Project/CommandWidget/CMakeLists.txt \
+  D:/Code/Project/CommandWidget/CommandWidget.cpp \
+  D:/Code/Project/CommandWidget/CommandWidget.h \
   CMakeFiles/3.27.8/CMakeCCompiler.cmake \
   CMakeFiles/3.27.8/CMakeCXXCompiler.cmake \
   CMakeFiles/3.27.8/CMakeRCCompiler.cmake \
