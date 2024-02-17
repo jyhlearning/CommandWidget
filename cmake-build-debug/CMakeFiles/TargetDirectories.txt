@@ -1,0 +1,5 @@
+D:/Code/Project/CommandWidget/cmake-build-debug/CMakeFiles/CommandWidget.dir
+D:/Code/Project/CommandWidget/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Code/Project/CommandWidget/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Code/Project/CommandWidget/cmake-build-debug/CMakeFiles/CommandWidget_autogen_timestamp_deps.dir
+D:/Code/Project/CommandWidget/cmake-build-debug/CMakeFiles/CommandWidget_autogen.dir

@@ -1,0 +1,3 @@
+D:/Code/Project/CommandWidget/cmake-build-release-visual-studio/CMakeFiles/CommandWidget.dir
+D:/Code/Project/CommandWidget/cmake-build-release-visual-studio/CMakeFiles/ALL_BUILD.dir
+D:/Code/Project/CommandWidget/cmake-build-release-visual-studio/CMakeFiles/ZERO_CHECK.dir

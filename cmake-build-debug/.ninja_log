@@ -1,0 +1,9 @@
+# ninja log v5
+6	233	7298875255965144	CommandWidget_autogen/timestamp	eb47031902b9a365
+6	233	7298875255965144	CommandWidget_autogen/mocs_compilation.cpp	eb47031902b9a365
+6	233	7298875255965144	D:/Code/Project/CommandWidget/cmake-build-debug/CommandWidget_autogen/timestamp	eb47031902b9a365
+6	233	7298875255965144	D:/Code/Project/CommandWidget/cmake-build-debug/CommandWidget_autogen/mocs_compilation.cpp	eb47031902b9a365
+1630	2255	7298875271646073	CommandWidget.exe	f7784924a6b4fb61
+463	2130	7298875138651632	CMakeFiles/CommandWidget.dir/BACommandWidget.cpp.obj	ca06921389e3dbd3
+236	1629	7298875269886883	CMakeFiles/CommandWidget.dir/main.cpp.obj	bfe73f23207914de
+457	2177	7298875139101585	CMakeFiles/CommandWidget.dir/CommandWidget_autogen/mocs_compilation.cpp.obj	6fcc11bef8d0c75
